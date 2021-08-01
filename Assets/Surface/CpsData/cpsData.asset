@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d523abe7cbf9148a966ec52e765d91, type: 3}
+  m_Name: cpsData
+  m_EditorClassIdentifier: 
+  orderX: 3
+  orderY: 3
+  loopX: 0
+  loopY: 0
+  size: {x: 10, y: 10}
+  count: {x: 6, y: 6}
+  cps:
+  - pos: {x: 5, y: 2.2594218, z: 0}
+    weight: 1
+  - pos: {x: 4, y: 1.022212, z: 3}
+    weight: 1
+  - pos: {x: 3, y: -0.1896204, z: 4}
+    weight: 1
+  - pos: {x: 2, y: 5, z: 4.582575}
+    weight: 1
+  - pos: {x: 1, y: 5, z: 4.898979}
+    weight: 1
+  - pos: {x: 0, y: 5, z: 5}
+    weight: 1
+  - pos: {x: 5, y: 4, z: 3}
+    weight: 1
+  - pos: {x: 4, y: 4, z: 6}
+    weight: 1
+  - pos: {x: 3, y: 4, z: 7}
+    weight: 1
+  - pos: {x: 2, y: 4, z: 7.582575}
+    weight: 1
+  - pos: {x: 1, y: 4, z: 7.898979}
+    weight: 1
+  - pos: {x: 0, y: 4, z: 8}
+    weight: 1
+  - pos: {x: 5, y: 3, z: 4}
+    weight: 1
+  - pos: {x: 4, y: 3, z: 7}
+    weight: 1
+  - pos: {x: 3, y: 3, z: 8}
+    weight: 1
+  - pos: {x: 2, y: 3, z: 8.582575}
+    weight: 1
+  - pos: {x: 1, y: 3, z: 8.898979}
+    weight: 1
+  - pos: {x: 0, y: 3, z: 9}
+    weight: 1
+  - pos: {x: 5, y: 2, z: 4.582575}
+    weight: 1
+  - pos: {x: 4, y: 2, z: 7.582575}
+    weight: 1
+  - pos: {x: 3, y: 2, z: 8.582575}
+    weight: 1
+  - pos: {x: 2, y: 2, z: 9.16515}
+    weight: 1
+  - pos: {x: 1, y: 2, z: 9.481554}
+    weight: 1
+  - pos: {x: 0, y: 2, z: 9.582575}
+    weight: 1
+  - pos: {x: 5, y: 1, z: 4.898979}
+    weight: 1
+  - pos: {x: 4, y: 1, z: 7.898979}
+    weight: 1
+  - pos: {x: 3, y: 1, z: 8.898979}
+    weight: 1
+  - pos: {x: 2, y: 1, z: 9.481554}
+    weight: 1
+  - pos: {x: 1, y: 1, z: 9.797958}
+    weight: 1
+  - pos: {x: 0, y: 1, z: 9.898979}
+    weight: 1
+  - pos: {x: 5, y: 0, z: 5}
+    weight: 1
+  - pos: {x: 4, y: 0, z: 8}
+    weight: 1
+  - pos: {x: 3, y: 0, z: 9}
+    weight: 1
+  - pos: {x: 2, y: 0, z: 9.582575}
+    weight: 1
+  - pos: {x: 1, y: 0, z: 9.898979}
+    weight: 1
+  - pos: {x: 0, y: 0, z: 10}
+    weight: 1
