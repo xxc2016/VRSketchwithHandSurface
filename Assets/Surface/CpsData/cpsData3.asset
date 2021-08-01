@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d523abe7cbf9148a966ec52e765d91, type: 3}
+  m_Name: cpsData3
+  m_EditorClassIdentifier: 
+  orderX: 1
+  orderY: 2
+  loopX: 0
+  loopY: 0
+  size: {x: 10, y: 10}
+  count: {x: 5, y: 8}
+  cps:
+  - pos: {x: 0, y: 4, z: 0}
+    weight: 1
+  - pos: {x: 1, y: 3, z: 0}
+    weight: 1
+  - pos: {x: 2, y: 2, z: 0}
+    weight: 1
+  - pos: {x: 3, y: 1, z: 0}
+    weight: 1
+  - pos: {x: 4, y: 0, z: 0}
+    weight: 1
+  - pos: {x: 0, y: 4, z: 0}
+    weight: 1
+  - pos: {x: 0.7071067, y: 3, z: -0.7071068}
+    weight: 1
+  - pos: {x: 1.4142134, y: 2, z: -1.4142137}
+    weight: 1
+  - pos: {x: 2.1213202, y: 1, z: -2.1213205}
+    weight: 1
+  - pos: {x: 2.8284268, y: 0, z: -2.8284273}
+    weight: 1
+  - pos: {x: 0, y: 4, z: 0}
+    weight: 1
+  - pos: {x: 0.000000059604645, y: 3, z: -0.99999994}
+    weight: 1
+  - pos: {x: 0.00000011920929, y: 2, z: -1.9999999}
+    weight: 1
+  - pos: {x: 0.00000017881393, y: 1, z: -2.9999998}
+    weight: 1
+  - pos: {x: 0.00000023841858, y: 0, z: -3.9999998}
+    weight: 1
+  - pos: {x: 0, y: 4, z: 0}
+    weight: 1
+  - pos: {x: -0.7071067, y: 3, z: -0.70710677}
+    weight: 1
+  - pos: {x: -1.4142134, y: 2, z: -1.4142135}
+    weight: 1
+  - pos: {x: -2.1213202, y: 1, z: -2.1213202}
+    weight: 1
+  - pos: {x: -2.8284268, y: 0, z: -2.828427}
+    weight: 1
+  - pos: {x: 0, y: 4, z: 0}
+    weight: 1
+  - pos: {x: -1, y: 3, z: 0.00000008742278}
+    weight: 1
+  - pos: {x: -2, y: 2, z: 0.00000017484555}
+    weight: 1
+  - pos: {x: -3, y: 1, z: 0.00000026226832}
+    weight: 1
+  - pos: {x: -4, y: 0, z: 0.0000003496911}
+    weight: 1
+  - pos: {x: 0, y: 4, z: 0}
+    weight: 1
+  - pos: {x: -0.7071067, y: 3, z: 0.7071069}
+    weight: 1
+  - pos: {x: -1.4142134, y: 2, z: 1.4142138}
+    weight: 1
+  - pos: {x: -2.1213202, y: 1, z: 2.1213207}
+    weight: 1
+  - pos: {x: -2.8284268, y: 0, z: 2.8284276}
+    weight: 1
+  - pos: {x: 0, y: 4, z: 0}
+    weight: 1
+  - pos: {x: 0.000000059604645, y: 3, z: 0.99999994}
+    weight: 1
+  - pos: {x: 0.00000011920929, y: 2, z: 1.9999999}
+    weight: 1
+  - pos: {x: 0.00000017881393, y: 1, z: 2.9999998}
+    weight: 1
+  - pos: {x: 0.00000023841858, y: 0, z: 3.9999998}
+    weight: 1
+  - pos: {x: 0, y: 4, z: 0}
+    weight: 1
+  - pos: {x: 0.707107, y: 3, z: 0.7071066}
+    weight: 1
+  - pos: {x: 1.414214, y: 2, z: 1.4142132}
+    weight: 1
+  - pos: {x: 2.121321, y: 1, z: 2.1213198}
+    weight: 1
+  - pos: {x: 2.828428, y: 0, z: 2.8284264}
+    weight: 1
